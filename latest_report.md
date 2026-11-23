@@ -1,19 +1,19 @@
-# 당신을살릴식사 - 유튜브 건강 트렌드 TOP 10 (2026-11-22)
+# 당신을살릴식사 - 유튜브 건강 트렌드 TOP 10 (2026-11-23)
 
-- **분석 기준**: 최근 7일 업로드 전체 영상 (이전 보고 영상 0개 제외 / 최소 조회수 5,000회 / 최소 구독자 1,000명 이상 / 순수 제목 건강 키워드 검증)
+- **분석 기준**: 최근 7일 업로드 전체 영상 (이전 보고 영상 10개 제외 / 최소 조회수 5,000회 / 최소 구독자 1,000명 이상 / 순수 제목 건강 키워드 검증)
 - **포맷 비율**: 롱폼 7개 (70%) / 쇼츠 3개 (롱폼 70% 이상 필수 적용)
 - **정렬 기준**: 바이럴 지수 (조회수 ÷ 채널 구독자 수) 내림차순
 - **검색 키워드**: 혈당, 당뇨, 염증, 독소 배출, 혈관, 중년 건강, 아침 공복, 면역력, 지방간, 장 건강
 
 | 순위 | 바이럴 지수 | 포맷(길이) | 제목 | 채널명 | 조회수 | 구독자 수 | 업로드일 | 키워드 |
 | :---: | :---: | :---: | :--- | :--- | ---: | ---: | :---: | :--- |
-| 1 | **144.87배** | 쇼츠 (0:59) | [60대 건강 식단, 아침 양배추 이렇게 드세요! 장 건강과 근육 건강까지!](https://www.youtube.com/watch?v=msjpgeiSLGc) | [건강병법](https://www.youtube.com/channel/UCHZmjVYvzmE9TxitDYDmygQ) | 149,217 | 1,030 | 2026-11-19 | 장 건강, 중년 건강 |
-| 2 | **95.23배** | 쇼츠 (0:34) | [뇌혈관 5곳 막혀 사라진 야인시대 아구 배우 김진형 충격 근황](https://www.youtube.com/watch?v=lUc0W7TrPdU) | [소보루빵](https://www.youtube.com/channel/UCT3fGztHr8Mw_SwvtBtWalQ) | 150,469 | 1,580 | 2026-11-19 | 혈관 |
-| 3 | **83.30배** | 쇼츠 (0:59) | [60대 건강 식단, 아침 두부 이렇게 드세요! 근육 건강과 눈 건강까지!](https://www.youtube.com/watch?v=ftBJ8xuu3es) | [건강병법](https://www.youtube.com/channel/UCHZmjVYvzmE9TxitDYDmygQ) | 85,803 | 1,030 | 2026-11-16 | 중년 건강 |
-| 4 | **51.84배** | 롱폼 (8:35) | [[혈당실험] 당뇨인, 버터 토스트 VS 땅콩버터 토스트 중 식후혈당 낮춘 아침 식사는?](https://www.youtube.com/watch?v=1Z25PF0_dMI) | [혈당 페이스메이커! 당쾌남tv](https://www.youtube.com/channel/UCGk7UxIqjMiXn4B9Rh_jMag) | 168,991 | 3,260 | 2026-11-17 | 혈당 |
-| 5 | **49.70배** | 롱폼 (31:22) | [대봉감 '이렇게' 드세요! 당뇨·신장 걱정 줄이는 하루 적정량 \| 홍시 곶감](https://www.youtube.com/watch?v=JF4-FXBbJas) | [백세 식탁 노트](https://www.youtube.com/channel/UCusnT3DV3hcuVvGuOvFAzAQ) | 72,072 | 1,450 | 2026-11-15 | 당뇨 |
-| 6 | **45.48배** | 롱폼 (2:20) | [비싼 영양제 드시지 마세요! 매일 당근을 먹으면 사라지는 질병 4가지 #당근 #눈건강 #혈당관리 #면역력 #장건강 #면역력강화](https://www.youtube.com/watch?v=ExGOOW6wPJ4) | [바른건강연구소](https://www.youtube.com/channel/UCCPUA0lVkO8I0A1pTXAE1SQ) | 654,906 | 14,400 | 2026-11-16 | 장 건강 |
-| 7 | **17.59배** | 롱폼 (26:48) | [80대에도 걷는 힘을 지키는 아침 식단! 근골격계 건강을 위한 단백질 음식 5가지](https://www.youtube.com/watch?v=8ZyIV4YVzCs) | [매일 뼈와 관절 관리](https://www.youtube.com/channel/UCFszkEEebKXWnn0_f96bE9g) | 22,336 | 1,270 | 2026-11-15 | 중년 건강 |
-| 8 | **17.50배** | 롱폼 (30:29) | [생강차, 아직도 잘못 끓이고 계신가요? 염증 관리에 도움 되는 제대로 된 조리법 \| 건강 채소](https://www.youtube.com/watch?v=w1wbOhScPjk) | [건강 채소밥상](https://www.youtube.com/channel/UCAxW9ikGz7OeWidPag08pzw) | 46,548 | 2,660 | 2026-11-17 | 염증 |
-| 9 | **10.20배** | 롱폼 (2:28) | [믹스커피에 '이것' 하나만 넣어보세요 \| 비밀 비법재료로 건강하게 즐기세요 #믹스커피 #커피 #두유 #라떼 #카페인 #혈당관리 #뼈건강](https://www.youtube.com/watch?v=eALH9gxIFBU) | [바른건강연구소](https://www.youtube.com/channel/UCCPUA0lVkO8I0A1pTXAE1SQ) | 146,814 | 14,400 | 2026-11-17 | 중년 건강 |
-| 10 | **7.96배** | 롱폼 (1:01) | [60대 건강 식단, 겨울 무 이렇게 드세요! 장 건강과 혈관 건강까지!](https://www.youtube.com/watch?v=XsIv5Gvi4YU) | [건강병법](https://www.youtube.com/channel/UCHZmjVYvzmE9TxitDYDmygQ) | 8,195 | 1,030 | 2026-11-21 | 장 건강, 혈관 |
+| 1 | **55.81배** | 쇼츠 (0:28) | [밀가루 한 달 끊은 김정난의 독소 배출 비법! 아침마다 끓여 먹는 진한 황태국 만들기](https://www.youtube.com/watch?v=6ytGF06sKpE) | [채채픽](https://www.youtube.com/channel/UCyx9rFLjt9CrJi1eeNxW6gw) | 63,618 | 1,140 | 2026-11-19 | 독소 배출 |
+| 2 | **36.15배** | 쇼츠 (0:54) | [문숙이 면역 떨어질 때 끓이는 수프 #요리 #요리레시피 #문숙](https://www.youtube.com/watch?v=fK_Lo-Y-L88) | [ㅇㅉㅇ](https://www.youtube.com/channel/UCcfc2-6S3TvrdcdEBm9ZitQ) | 95,064 | 2,630 | 2026-11-16 | 면역력 |
+| 3 | **23.13배** | 쇼츠 (0:59) | [60대 건강 식단, 겨울 배추 이렇게 드세요! 장 건강과 근육 건강까지!](https://www.youtube.com/watch?v=G3alOAGS51g) | [건강병법](https://www.youtube.com/channel/UCHZmjVYvzmE9TxitDYDmygQ) | 27,993 | 1,210 | 2026-11-20 | 장 건강, 중년 건강 |
+| 4 | **11.30배** | 롱폼 (1:41:57) | [​[오늘만 🚨] 청정 연천군 6년근 인삼! 면역력 폭발 초특가 대방출 🌿](https://www.youtube.com/watch?v=lVTa5cEZQ9Q) | [규봉이네](https://www.youtube.com/channel/UCYmhUqrhZHNs2v4Ccovb2tw) | 48,799 | 4,320 | 2026-11-22 | 면역력 |
+| 5 | **9.37배** | 롱폼 (1:19:45) | [​[오늘만 🚨] 청정 연천군 6년근 인삼! 면역력 폭발 초특가 대방출 🌿](https://www.youtube.com/watch?v=UiL2Q3O2_5U) | [규봉이네](https://www.youtube.com/channel/UCYmhUqrhZHNs2v4Ccovb2tw) | 40,476 | 4,320 | 2026-11-22 | 면역력 |
+| 6 | **7.37배** | 롱폼 (1:20:01) | [​[오늘만 🚨] 청정 연천군 6년근 인삼! 면역력 폭발 초특가 대방출 🌿](https://www.youtube.com/watch?v=XIJwe8noXRo) | [규봉이네](https://www.youtube.com/channel/UCYmhUqrhZHNs2v4Ccovb2tw) | 31,854 | 4,320 | 2026-11-22 | 면역력 |
+| 7 | **7.11배** | 롱폼 (1:45) | [설탕만 조심하시나요? 당뇨에 설탕보다 혈당을 더 빨리 올리는 무서운 음식 4가지](https://www.youtube.com/watch?v=apUCDWgYHAE) | [뇌전류](https://www.youtube.com/channel/UC7PzN92LQIdqyoNcWG1nyvQ) | 19,917 | 2,800 | 2026-11-19 | 당뇨, 혈당 |
+| 8 | **6.71배** | 롱폼 (5:31) | [단감 vs 사과 혈당, 같은 양 먹었는데 하나만 160까지 올랐습니다](https://www.youtube.com/watch?v=WREygrxWa5Q) | [당뇨 딸](https://www.youtube.com/channel/UCJGxm85xxMW0bVjkebaz2qg) | 419,784 | 62,600 | 2026-11-17 | 당뇨, 혈당 |
+| 9 | **5.56배** | 롱폼 (29:43) | [감 효능 7가지와 부작용! 혈관·눈 건강부터 위석 위험까지 꼭 알아야 할 사실 \| 건강 채소](https://www.youtube.com/watch?v=suB1KOWvHsw) | [건강 채소밥상](https://www.youtube.com/channel/UCAxW9ikGz7OeWidPag08pzw) | 14,835 | 2,670 | 2026-11-16 | 혈관 |
+| 10 | **5.32배** | 롱폼 (1:05) | [고혈압과 당뇨, 없앨 수 있습니다](https://www.youtube.com/watch?v=8k8S6rHpAmg) | [이승훈의 메디컬 유니버스](https://www.youtube.com/channel/UCK0M1b3ZPv2du5eZlVGuuxA) | 292,095 | 54,900 | 2026-11-20 | 당뇨 |
